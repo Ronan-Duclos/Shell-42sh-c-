@@ -1,4 +1,4 @@
-This programme is a shell, an interface allowing user to send somes commandes.
+This program is a shell, an interface allowing user to send unix commands.
 
 * Start by make
 * launch ./42sh
